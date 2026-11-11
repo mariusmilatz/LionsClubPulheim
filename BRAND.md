@@ -25,7 +25,10 @@ The Romanesque portal: nested round arches after Abtei Brauweiler. Used once lar
 (hero), echoed as arch-shaped image frames. Nowhere else.
 
 ## Rules
-- Gold is a line colour, never a fill for large areas.
+- Gold is a line colour, never a fill for large areas and never a text colour. One gold button per screen at most.
+- Columns are uneven (5:7), never 50/50. The portal's outer arch is left open on one side.
+- Every element must earn its place; working notes belong in the README, not on the page.
+- Membership is suggested, not explained.
 - No Lions emblem until the club confirms usage under the Lions International brand rules.
 - No member names or portraits without written consent.
 - One motion moment: the portal draws itself on load.
